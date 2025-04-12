@@ -47,7 +47,6 @@
   <a href="https://tryhackme.com/p/d3.fau1t" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
   </a>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/d3.fau1t.png" alt="Your Image Badge" />
 </div>
 
 ###
