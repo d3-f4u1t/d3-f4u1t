@@ -33,7 +33,6 @@
 </div>
 
 ###
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4509200" style='border:none;'></iframe> #################
 <h4 align="left">Thanks for stopping by! Feel free to check out my repos and follow along my journey into cybersecurity:)</h4>
 
 ###
@@ -48,6 +47,7 @@
   <a href="https://tryhackme.com/p/d3.fau1t" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
   </a>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/d3.fau1t.png" alt="Your Image Badge" />
 </div>
 
 ###
