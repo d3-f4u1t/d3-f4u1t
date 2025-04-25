@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">🎓 I'm a student <br>about to start my BTech in Cyber Security.  <br>💻 Currently learning the fundamentals of programming, ethical hacking, and computer science.</h2>
+<h2 align="left">🎓 cyber sec student <br>💻 Currently learning the fundamentals of programming, ethical hacking, and computer science.</h2>
 
 ###
 
