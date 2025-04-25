@@ -6,8 +6,8 @@
 
 ###
 
-<p align="left">🚀 Learning<br><br>- 🔒 Cybersecurity (TryHackMe, Hack The Box)<br>- 🧠 Computer Science (CS50 by Harvard)<br>- 🐍 Python basics<br>- 🌐 HTML, CSS, SQL<br>- 🛠️ Linux & Networking fundamentals<br><br>---<br>
-###
+<p align="left">🚀 Learning<br><br>- 🔒 Cybersecurity (TryHackMe, Hack The Box)<br>- 🧠 Computer Science (CS50 by Harvard)<br>- 🐍 Python basics<br>- 🌐 HTML, CSS, SQL<br>- 🛠️ Linux & Networking fundamentals<br>
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
