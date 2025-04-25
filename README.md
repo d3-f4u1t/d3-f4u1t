@@ -6,8 +6,7 @@
 
 ###
 
-<p align="left">🚀 Learning<br><br>- 🔒 Cybersecurity (TryHackMe, Hack The Box)<br>- 🧠 Computer Science (CS50 by Harvard)<br>- 🐍 Python basics<br>- 🌐 HTML, CSS, SQL<br>- 🛠️ Linux & Networking fundamentals<br><br>---<br><br>📚 Goals<br><br>- Build a solid foundation in cybersecurity & computer science  <br>- Document everything I learn  <br>- Start building tools and participating in CTFs  <br>- Land my first internship before 3rd year 🔍</p>
-
+<p align="left">🚀 Learning<br><br>- 🔒 Cybersecurity (TryHackMe, Hack The Box)<br>- 🧠 Computer Science (CS50 by Harvard)<br>- 🐍 Python basics<br>- 🌐 HTML, CSS, SQL<br>- 🛠️ Linux & Networking fundamentals<br><br>---<br>
 ###
 
 <div align="left">
