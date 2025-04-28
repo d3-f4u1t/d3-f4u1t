@@ -2,11 +2,9 @@
 
 ###
 
-<h2 align="left">🎓 cyber sec student <br>💻 Currently learning the fundamentals of programming, ethical hacking, and computer science.</h2>
+<h2 align="left">cyber sec student </h2>
 
 ###
-
-<p align="left">🚀 Learning<br><br>- 🔒 Cybersecurity (TryHackMe, Hack The Box)<br>- 🧠 Computer Science (CS50 by Harvard)<br>- 🐍 Python basics<br>- 🌐 HTML, CSS, SQL<br>- 🛠️ Linux & Networking fundamentals<br>
 
 
 <div align="left">
