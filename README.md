@@ -30,7 +30,7 @@
 </div>
 
 ###
-<h4 align="left">Thanks for stopping by! Feel free to check out my repos and follow along my journey into cybersecurity:)</h4>
+<h4 align="left">Thanks for stopping by</h4>
 
 ###
 
