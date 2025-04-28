@@ -1,4 +1,4 @@
-<h1 align="left"># 👋 Hey there, I'm Hardik panwar</h1>
+<h1 align="left">#Hardik panwar</h1>
 
 ###
 
