@@ -3,13 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/d3xfau1t" target="blank"><img src="https://img.shields.io/twitter/follow/d3xfau1t?logo=twitter&style=for-the-badge" alt="d3xfau1t" /></a> </p>
 
-- 🔭 I’m currently working on [Secure_Encrpt](https://github.com/d3-f4u1t/Secure_Encrpt)
+- I’m currently working on [Secure_Encrpt](https://github.com/d3-f4u1t/Secure_Encrpt)
 
-- 🌱 I’m currently learning **BLACK ARCH, c++**
+- I’m currently learning **BLACK ARCH, c++**
 
-- 💬 Ask me about **Python, linux, sql**
-
-- 📫 How to reach me **hkpanwar123@gmail.com**
+- Ask me about **Python, linux, sql**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
