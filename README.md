@@ -7,7 +7,7 @@
 
 - I’m currently learning **ARCH, c**
 
-- Ask me about **Python, linux, sql**
+- Ask me about **Python, linux, sql, tinker, flask**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
