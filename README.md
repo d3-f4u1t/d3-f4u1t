@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/d3xfau1t" target="blank"><img src="https://img.shields.io/twitter/follow/d3xfau1t?logo=twitter&style=for-the-badge" alt="d3xfau1t" /></a> </p>
 
-- I’m currently working on [Secure_Encrpt](https://github.com/d3-f4u1t/Secure_Encrpt)
+- I’m currently working on [Secure_Encrpt](https://github.com/d3-f4u1t/Secure_Encrpt) AND [STTI](https://github.com/d3-f4u1t/STTI)
 
 - I’m currently learning **ARCH, c**
 
