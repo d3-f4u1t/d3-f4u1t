@@ -5,7 +5,7 @@
 
 - I’m currently working on [Secure_Encrpt](https://github.com/d3-f4u1t/Secure_Encrpt) AND [STTI](https://github.com/d3-f4u1t/STTI)
 
-- currently learning **ARCH, c**
+- Learning **ARCH, c**
 
 - Ask me about **Python, linux, sql, tinker, flask**
 
