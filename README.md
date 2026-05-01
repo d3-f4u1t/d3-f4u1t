@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hardik panwar</h1>
 <h3 align="center">Developer / Cybersecurity Student</h3>
 
+<p align="left"> <a href="https://twitter.com/d3xfau1t" target="blank"><img src="https://img.shields.io/twitter/follow/d3xfau1t?logo=twitter&style=for-the-badge" alt="d3xfau1t" /></a> </p>
+
+
 # About Me:
 I’m currently working on [Secure_Encrpt](https://github.com/d3-f4u1t/Secure_Encrpt) AND [STTI](https://github.com/d3-f4u1t/STTI)<br>Learning **ARCH, c**<br>Ask me about **Python, linux, sql, tinker, flask**<br>
 
