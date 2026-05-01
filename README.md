@@ -19,6 +19,4 @@ I’m currently working on [Secure_Encrpt](https://github.com/d3-f4u1t/Secure_En
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=d3-f4u1t&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=d3-f4u1t&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://komarev.com/ghpvc/?username=d3-f4u1t&icon=0&color=0&)](https://visitcount.itsvg.in)
