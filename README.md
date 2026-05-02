@@ -5,7 +5,7 @@
 
 
 # About Me:
-I’m currently working on [VIBEMATCH](https://github.com/d3-f4u1t/VIBEMATCH) <br>Learning **ARCH, C**, lua**, Love2d**<br>Ask me about **PYTHON, LINUX, SQL, TINKER, FLASK, FASTAPI**<br>
+I’m currently working on [VIBEMATCH](https://github.com/d3-f4u1t/VIBEMATCH) <br>Learning **ARCH, C**, **LUA, LOVE2D**<br>Ask me about **PYTHON, LINUX, SQL, TINKER, FLASK, FASTAPI**<br>
 
 
 ## Socials:
