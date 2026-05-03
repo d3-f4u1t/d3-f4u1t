@@ -1,5 +1,5 @@
 <h1 align="center">HARDIK PANWAR</h1>
-<h3 align="center">Developer / Cybersecurity Student</h3>
+<h3 align="center">Developer / CS Student</h3>
 
 <p align="left"> <a href="https://twitter.com/d3xfau1t" target="blank"><img src="https://img.shields.io/twitter/follow/d3xfau1t?logo=twitter&style=for-the-badge" alt="d3xfau1t" /></a> </p>
 
