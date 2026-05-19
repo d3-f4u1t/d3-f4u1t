@@ -6,7 +6,7 @@
 
 ### Current Focus
 - Building `VibeMatch`, a music-based matchmaking platform with FastAPI and React Native
-- Exploring backend systems, matching logic, vectors, and application architecture
+- Exploring backend systems, algorithm  development, and application architecture
 - Strengthening my foundation in Python, Linux, SQL, Git, and security fundamentals
 
 ## Socials:
